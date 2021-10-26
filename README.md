@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is fully testable using React testing library to practice unit testing, Also including mini server for shoping items.
+
 ## Available Scripts
 
 In the project directory, you can run:
